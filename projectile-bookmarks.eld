@@ -1,0 +1,1 @@
+("/workspace/src/email-marketing-statistics-service/" "/workspace/src/email-marketing-service/" "~/clojure-noob/" "/workspace/src/lists-ui/" "~/.emacs.d/")

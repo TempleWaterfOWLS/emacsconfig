@@ -1,0 +1,52 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/zachary.smith/clojure-noob/src/" . "clojure_noob/")
+ ("/Users/zachary.smith/clojure-noob/" . "src/")
+ ("/Users/zachary.smith/.emacs.d/" . "customizations/")
+ ("/Users/zachary.smith/" . "clojure-noob/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/zachary.smith/clojure-noob/src/clojure_noob/"
+ "/Users/zachary.smith/euler/clojure/"
+ "/Users/zachary.smith/sqlite/"
+ "/Users/zachary.smith/.emacs.d/customizations/"
+ "/Users/zachary.smith/.emacs.d/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "core.clj"
+ "euler1.clj"
+ "ex2.sql"
+ "editing.el"
+ "ui.el"
+ "init.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/zachary.smith/clojure-noob/" (21979 4331 0 0) "test/" "target/" "src/" "resources/" "README.md" "project.clj" "LICENSE" "doc/" ".lein-repl-history" ".idea/" ".hgignore" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/zachary.smith/" (21980 25381 0 0) "yodle-quickstart.vjMWBu/" "tmp/" "ticker/" "sqlite/" "Public/" "Pictures/" "Music/" "Movies/" "mongodb/" "Library/" "git-completion.bash" "euler/" "Downloads/" "Documents/" "Desktop/" "clojure-noob/" "bin/" "Applications/" ".yodle-dev-shell-utils/" ".viminfo" ".v8flags.3.14.5.9.zachary.smith.json" ".Trash/" ".ssh/" ".sqlite_history" ".shared-git-hooks/" ".screenrc" ".sbt/" ".npm/" ".node-gyp/" ".mongorc.js" ".m2/" ".local/" ".lein/" ".ivy2/" ".IntelliJIdea14/" ".hgrc" ".hg-scripts/" ".haproxy/" ".gradle/" ".gitconfig" ".esets/" ".emacs.d/" ".DS_Store" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bashrc~" ".bashrc" ".bash_profile" ".bash_history" ".bamboo_sanity_runtimes" ".android/" "../" "./")
+
+ ("/Users/zachary.smith/euler/" (21978 27082 0 0) "clojure/" "../" "./")
+
+ ("/Users/zachary.smith/euler/clojure/" (21980 61596 0 0) "euler2.clj" "euler1.clj" "../" "./")
+
+ ("/Users/zachary.smith/sqlite/" (21980 39390 0 0) "test.db" "ex3.sql" "ex2.sql.save" "ex2.sql" "ex2.db" "ex1.sql" "ex1.db" "../" "./")
+
+ ("/Users/zachary.smith/clojure-noob/src/clojure_noob/" (21978 24733 0 0) "core.clj~" "core.clj" "../" "./")
+
+ ("/Users/zachary.smith/.emacs.d/" (21977 11120 0 0) "themes/" "README.md" "projectile-bookmarks.eld" "places" "init.el" "ido.last" "elpa/" "customizations/" "cider-history" "backups/" "auto-save-list/" ".smex-items" ".recentf" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/zachary.smith/.emacs.d/customizations/" (21976 58655 0 0) "ui.el" "shell-integration.el" "setup-js.el" "setup-clojure.el" "navigation.el" "misc.el" "elisp-editing.el" "editing.el" "../" "./")
+
+ ("/Users/zachary.smith/clojure-noob/src/" (21976 51576 0 0) "clojure_noob/" ".DS_Store" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
